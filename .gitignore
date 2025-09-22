@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+krp
+
+# Debug files
+*.dSYM/
+*.debug
+
+# Editor/IDE files
+.vscode/
+.idea/
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
